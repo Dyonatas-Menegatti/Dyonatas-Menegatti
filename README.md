@@ -101,7 +101,7 @@ Clone da PlayStation Store desenvolvido com Angular.
 - Responsividade
 - Reutilização de Componentes
 
-🔗 <a href="SEU_LINK_AQUI">Ver Projeto</a>
+🔗 <a href="https://github.com/Dyonatas-Menegatti/store">Ver Projeto</a>
 
 </td>
 
@@ -143,7 +143,7 @@ Aplicação consumindo a PokéAPI.
 - Tratamento de Dados
 - Componentes Reutilizáveis
 
-🔗 <a href="SEU_LINK_AQUI">Ver Projeto</a>
+🔗 <a href="https://github.com/Dyonatas-Menegatti/Estudo-ANGULAR/tree/main/Services%20e%20Pipes/service">Ver Projeto</a>
 
 </td>
 
