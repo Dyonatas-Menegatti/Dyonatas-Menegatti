@@ -28,121 +28,150 @@ Busco minha primeira oportunidade como Desenvolvedor Front-End para contribuir c
 
 ---
 
-## Tecnologias
+## 🚀 Tecnologias & Conhecimentos
 
-```text
-Angular      ████████████████████ 90%
-TypeScript   ████████████████████ 90%
-JavaScript   ██████████████████░░ 85%
-HTML5        ████████████████████ 95%
-CSS3         ██████████████████░░ 85%
-Git/GitHub   ██████████████████░░ 85%
-.NET         ██████████████░░░░░░ 70%
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Stack Principal
+
+#### 🟢 Avançado
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+#### 🟡 Intermediário
+<img src="https://skillicons.dev/icons?i=angular,ts,js,git,github" />
+
+#### 🔵 Iniciante
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Conhecimentos
+
+#### Front-End
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Angular
+
+![Guards](https://img.shields.io/badge/Guards-✓-DD0031?style=flat-square)
+![Interceptors](https://img.shields.io/badge/Interceptors-✓-DD0031?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-✓-DD0031?style=flat-square)
+![REST_API](https://img.shields.io/badge/REST_API-✓-DD0031?style=flat-square)
+
+#### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🎮 PlayStation Store Clone
+<table>
+<tr>
 
-Clone da PlayStation Store desenvolvido em Angular.
+<td width="33%" valign="top">
 
-**Principais conceitos:**
+### 🎮 PlayStation Store
 
+Clone da PlayStation Store desenvolvido com Angular.
+
+**Tecnologias**
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+
+**Conceitos**
 - Componentização
-- Comunicação via @Input
-- Estruturação de componentes reutilizáveis
+- @Input
 - Responsividade
-- Organização de código
+- Reutilização de Componentes
 
-🔗 Repositório:
-https://github.com/Dyonatas-Menegatti
+🔗 <a href="SEU_LINK_AQUI">Ver Projeto</a>
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ### 🧠 BuzzFeed Quiz
 
-Aplicação inspirada nos quizzes do BuzzFeed.
+Quiz dinâmico inspirado no BuzzFeed.
 
-**Principais conceitos:**
-
-- Manipulação de JSON
-- Renderização dinâmica
-- Lógica de resultados
-- Componentização
+**Tecnologias**
+- Angular
 - TypeScript
+- JSON
 
-🔗 Repositório:
-https://github.com/Dyonatas-Menegatti/projeto-buzzfeed
+**Conceitos**
+- Renderização Dinâmica
+- Manipulação de JSON
+- Componentização
+- Lógica de Resultados
 
----
+🔗 <a href="https://github.com/Dyonatas-Menegatti/projeto-buzzfeed">Ver Projeto</a>
 
-### 🐱 Pokédex Angular
+</td>
 
-Projeto consumindo API pública de Pokémon.
+<td width="33%" valign="top">
 
-**Principais conceitos:**
+### 🐱 Pokédex
 
-- Consumo de APIs REST
+Aplicação consumindo a PokéAPI.
+
+**Tecnologias**
+- Angular
+- TypeScript
 - RxJS
-- Busca dinâmica
-- Tratamento de dados
-- Componentes reutilizáveis
 
-🔗 Repositório:
-https://github.com/Dyonatas-Menegatti
+**Conceitos**
+- APIs REST
+- Busca Dinâmica
+- Tratamento de Dados
+- Componentes Reutilizáveis
 
----
+🔗 <a href="SEU_LINK_AQUI">Ver Projeto</a>
 
-## Conhecimentos
+</td>
 
-✔ Angular
-
-✔ TypeScript
-
-✔ JavaScript
-
-✔ HTML5
-
-✔ CSS3
-
-✔ Consumo de APIs REST
-
-✔ JWT Authentication
-
-✔ Guards
-
-✔ Interceptors
-
-✔ Git e GitHub
-
-✔ Responsividade
-
-✔ Componentização
+</tr>
+</table>
 
 ---
 
-## Estatísticas
+## 📈 Atividade no GitHub
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dyonatas-Menegatti&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dyonatas-Menegatti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyonatas-Menegatti&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <i>Construindo conhecimento através de projetos e prática contínua.</i>
 </p>
 
 ---
 
-## Atualmente Estudando
+## 📚 Atualmente Estudando
 
-- Angular Avançado
-- RxJS
-- Arquitetura Front-End
-- Testes Unitários
-- .NET Web API
-- Clean Code
+![Angular](https://img.shields.io/badge/Angular%20Avançado-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20Front--End-4A90E2?style=flat-square)
+![Testes](https://img.shields.io/badge/Testes%20Unitários-28A745?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?style=flat-square)
 
 ---
 
